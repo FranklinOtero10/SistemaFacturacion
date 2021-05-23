@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Sistema de Facturacion\Herramientas\bin\Debug\Herramientas.dll
+C:\Users\user\Desktop\Sistema de Facturacion\Herramientas\bin\Debug\Herramientas.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\Herramientas\bin\Debug\CacheManager.dll
+C:\Users\user\Desktop\Sistema de Facturacion\Herramientas\bin\Debug\DataManager.dll
+C:\Users\user\Desktop\Sistema de Facturacion\Herramientas\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Sistema de Facturacion\Herramientas\bin\Debug\CacheManager.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\Herramientas\bin\Debug\DataManager.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\Herramientas\obj\Debug\Herramientas.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Sistema de Facturacion\Herramientas\obj\Debug\Herramientas.GUI.Prueba.resources
+C:\Users\user\Desktop\Sistema de Facturacion\Herramientas\obj\Debug\Herramientas.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Sistema de Facturacion\Herramientas\obj\Debug\Herramientas.dll
+C:\Users\user\Desktop\Sistema de Facturacion\Herramientas\obj\Debug\Herramientas.pdb

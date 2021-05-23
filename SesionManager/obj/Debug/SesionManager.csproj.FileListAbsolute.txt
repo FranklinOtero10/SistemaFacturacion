@@ -1,0 +1,30 @@
+D:\Escritorio\DS2\Sistema de Facturacion\SesionManager\obj\Debug\SesionManager.csprojResolveAssemblyReference.cache
+D:\Escritorio\DS2\Sistema de Facturacion\SesionManager\bin\Debug\SesionManager.dll
+D:\Escritorio\DS2\Sistema de Facturacion\SesionManager\bin\Debug\SesionManager.pdb
+D:\Escritorio\DS2\Sistema de Facturacion\SesionManager\obj\Debug\SesionManager.dll
+D:\Escritorio\DS2\Sistema de Facturacion\SesionManager\obj\Debug\SesionManager.pdb
+D:\Escritorio\DS2\Sistema de Facturacion\SesionManager\bin\Debug\CacheManager.dll
+D:\Escritorio\DS2\Sistema de Facturacion\SesionManager\bin\Debug\DataManager.dll
+D:\Escritorio\DS2\Sistema de Facturacion\SesionManager\bin\Debug\MySql.Data.dll
+D:\Escritorio\DS2\Sistema de Facturacion\SesionManager\bin\Debug\CacheManager.pdb
+D:\Escritorio\DS2\Sistema de Facturacion\SesionManager\bin\Debug\DataManager.pdb
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\SesionManager\bin\Debug\SesionManager.dll
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\SesionManager\bin\Debug\SesionManager.pdb
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\SesionManager\bin\Debug\CacheManager.dll
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\SesionManager\bin\Debug\DataManager.dll
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\SesionManager\bin\Debug\MySql.Data.dll
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\SesionManager\bin\Debug\CacheManager.pdb
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\SesionManager\bin\Debug\DataManager.pdb
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\SesionManager\obj\Debug\SesionManager.csprojResolveAssemblyReference.cache
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\SesionManager\obj\Debug\SesionManager.dll
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\SesionManager\obj\Debug\SesionManager.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\SesionManager\bin\Debug\SesionManager.dll
+C:\Users\user\Desktop\Sistema de Facturacion\SesionManager\bin\Debug\SesionManager.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\SesionManager\bin\Debug\CacheManager.dll
+C:\Users\user\Desktop\Sistema de Facturacion\SesionManager\bin\Debug\DataManager.dll
+C:\Users\user\Desktop\Sistema de Facturacion\SesionManager\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Sistema de Facturacion\SesionManager\bin\Debug\CacheManager.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\SesionManager\bin\Debug\DataManager.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\SesionManager\obj\Debug\SesionManager.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Sistema de Facturacion\SesionManager\obj\Debug\SesionManager.dll
+C:\Users\user\Desktop\Sistema de Facturacion\SesionManager\obj\Debug\SesionManager.pdb

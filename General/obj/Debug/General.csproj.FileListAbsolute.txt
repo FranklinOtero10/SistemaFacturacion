@@ -1,0 +1,36 @@
+D:\Escritorio\DS2\Sistema de Facturacion\General\bin\Debug\General.dll
+D:\Escritorio\DS2\Sistema de Facturacion\General\bin\Debug\General.pdb
+D:\Escritorio\DS2\Sistema de Facturacion\General\obj\Debug\General.csprojResolveAssemblyReference.cache
+D:\Escritorio\DS2\Sistema de Facturacion\General\obj\Debug\General.GUI.RolesEdicion.resources
+D:\Escritorio\DS2\Sistema de Facturacion\General\obj\Debug\General.GUI.RolesGestion.resources
+D:\Escritorio\DS2\Sistema de Facturacion\General\obj\Debug\General.Properties.Resources.resources
+D:\Escritorio\DS2\Sistema de Facturacion\General\obj\Debug\General.csproj.GenerateResource.Cache
+D:\Escritorio\DS2\Sistema de Facturacion\General\obj\Debug\General.dll
+D:\Escritorio\DS2\Sistema de Facturacion\General\obj\Debug\General.pdb
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\General\bin\Debug\General.dll
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\General\bin\Debug\General.pdb
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\General\obj\Debug\General.csprojResolveAssemblyReference.cache
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\General\obj\Debug\General.GUI.RolesEdicion.resources
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\General\obj\Debug\General.GUI.RolesGestion.resources
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\General\obj\Debug\General.csproj.GenerateResource.Cache
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\General\obj\Debug\General.dll
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\General\obj\Debug\General.pdb
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\General\bin\Debug\DataManager.dll
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\General\bin\Debug\MySql.Data.dll
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\General\bin\Debug\DataManager.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\General\bin\Debug\General.dll
+C:\Users\user\Desktop\Sistema de Facturacion\General\bin\Debug\General.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\General\bin\Debug\DataManager.dll
+C:\Users\user\Desktop\Sistema de Facturacion\General\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Sistema de Facturacion\General\bin\Debug\DataManager.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\General\obj\Debug\General.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Sistema de Facturacion\General\obj\Debug\General.GUI.RolesEdicion.resources
+C:\Users\user\Desktop\Sistema de Facturacion\General\obj\Debug\General.GUI.RolesGestion.resources
+C:\Users\user\Desktop\Sistema de Facturacion\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\user\Desktop\Sistema de Facturacion\General\obj\Debug\General.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Sistema de Facturacion\General\obj\Debug\General.dll
+C:\Users\user\Desktop\Sistema de Facturacion\General\obj\Debug\General.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\General\bin\Debug\CacheManager.dll
+C:\Users\user\Desktop\Sistema de Facturacion\General\bin\Debug\CacheManager.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\General\obj\Debug\General.GUI.PermisosEdicion.resources

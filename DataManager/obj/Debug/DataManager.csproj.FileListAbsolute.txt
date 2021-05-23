@@ -1,0 +1,27 @@
+D:\Escritorio\DS2\Sistema de Facturacion\DataManager\bin\Debug\DataManager.dll.config
+D:\Escritorio\DS2\Sistema de Facturacion\DataManager\bin\Debug\DataManager.dll
+D:\Escritorio\DS2\Sistema de Facturacion\DataManager\bin\Debug\DataManager.pdb
+D:\Escritorio\DS2\Sistema de Facturacion\DataManager\bin\Debug\MySql.Data.dll
+D:\Escritorio\DS2\Sistema de Facturacion\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\Escritorio\DS2\Sistema de Facturacion\DataManager\obj\Debug\DataManager.GUI.Prueba.resources
+D:\Escritorio\DS2\Sistema de Facturacion\DataManager\obj\Debug\DataManager.csproj.GenerateResource.Cache
+D:\Escritorio\DS2\Sistema de Facturacion\DataManager\obj\Debug\DataManager.dll
+D:\Escritorio\DS2\Sistema de Facturacion\DataManager\obj\Debug\DataManager.pdb
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\DataManager\bin\Debug\DataManager.dll.config
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\DataManager\bin\Debug\DataManager.dll
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\DataManager\bin\Debug\DataManager.pdb
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\DataManager\bin\Debug\MySql.Data.dll
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\DataManager\obj\Debug\DataManager.GUI.Prueba.resources
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\DataManager\obj\Debug\DataManager.csproj.GenerateResource.Cache
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\DataManager\obj\Debug\DataManager.dll
+C:\Users\t\Documents\Visual Studio 2015\Projects\DS2\Sistema de Facturacion\DataManager\obj\Debug\DataManager.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\DataManager\bin\Debug\DataManager.dll.config
+C:\Users\user\Desktop\Sistema de Facturacion\DataManager\bin\Debug\DataManager.dll
+C:\Users\user\Desktop\Sistema de Facturacion\DataManager\bin\Debug\DataManager.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\DataManager\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Sistema de Facturacion\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Sistema de Facturacion\DataManager\obj\Debug\DataManager.GUI.Prueba.resources
+C:\Users\user\Desktop\Sistema de Facturacion\DataManager\obj\Debug\DataManager.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Sistema de Facturacion\DataManager\obj\Debug\DataManager.dll
+C:\Users\user\Desktop\Sistema de Facturacion\DataManager\obj\Debug\DataManager.pdb

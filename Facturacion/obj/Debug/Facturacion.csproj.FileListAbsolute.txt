@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Sistema de Facturacion\Facturacion\bin\Debug\Facturacion.dll
+C:\Users\user\Desktop\Sistema de Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Sistema de Facturacion\Facturacion\obj\Debug\Facturacion.GUI.VentasGestion.resources
+C:\Users\user\Desktop\Sistema de Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Sistema de Facturacion\Facturacion\obj\Debug\Facturacion.dll
+C:\Users\user\Desktop\Sistema de Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\user\Desktop\Sistema de Facturacion\Facturacion\obj\Debug\Facturacion.GUI.VentasEdicion.resources
+C:\Users\user\Desktop\Sistema de Facturacion\Facturacion\obj\Debug\Facturacion.GUI.VentasDetalles.resources
